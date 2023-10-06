@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+h1{
+    font-family: "poppins", "sans-serif";
+}
+body{
+    background-color: grey;
+    font-family: "poppins", "sans-serif";
+}
+.Lanjut{
+margin-left: 1100px;
+margin-top: -40px;
+margin-bottom: 200px;
+}
+.Judul{
+    margin-left: 5px;
+}
+.Kotak1{
+    width: 450px;
+    height: 330px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.G1{
+    margin-top: 35px;
+    margin-left: 15px;
+    margin-bottom: -28px;
+}
+.PT{
+    font-size: 22px;
+    margin-top: -35px;
+    margin-left: 88px;
+    margin-bottom: -12px;
+}
+.Kanan1{
+    margin-left: 377px;
+    margin-top: -50px;
+    margin-bottom: 30px;
+}
+.lokasi1{
+   margin-left: 88px;
+   margin-top: 10px;
+}
+.Logo1{
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.Text1{
+    margin-left: 68px;
+    margin-top: -38px;
+}
+.Text2{
+    margin-left: 68px;
+    margin-top: -50px;
+}
+.Text3{
+    margin-left: 68px;
+    margin-top: -28px;
+}
+.Logo2{
+    margin-left: 25px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.Logo3{
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+.up{
+    margin-top: 30px;
+    margin-left: 30px;
+    color: grey;
+}
+.Kotak2{
+    width: 450px;
+    height: 330px;
+    background-color: #fff;
+    border-radius: 20px;
+    margin-top: -330px;
+    margin-left: 455px;
+}
+.G2{
+    margin-top: 35px;
+    margin-left: 15px;
+    margin-bottom: -28px;
+}
+.Kanan2{
+    margin-left: 377px;
+    margin-top: -25px;
+    margin-bottom: 20px;
+}
+.lokasi2{
+    margin-left: 88px;
+    margin-top: -30px;
+    margin-bottom: 25px;
+}
+.Logo4{
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.Text4{
+    margin-left: 68px;
+    margin-top: -38px;
+}
+.Logo5{
+    margin-left: 25px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.Text5{
+        margin-left: 68px;
+        margin-top: -50px;
+}
+.Logo6{
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+.Text6{
+    margin-left: 68px;
+    margin-top: -28px;
+}
+.Kotak3{
+    width: 450px;
+    height: 330px;
+    background-color: #fff;
+    border-radius: 20px;
+    margin-top: -330px;
+    margin-left: 910px;
+}
+.G3{
+    margin-top: 13px;
+    margin-left: 15px;
+    margin-bottom: -20px;
+}
+.Kanan3{
+    margin-left: 385px;
+    margin-top: -1px;
+    margin-bottom: 28px;
+}
+.lokasi3{
+    margin-left: 88px;
+    margin-top: -73px;
+    margin-bottom: 50px;
+}
+.Text7{
+    margin-left: 70px;
+    margin-top: -10px;
+    margin-bottom: -40px;
+}
+.Logo7{
+    margin-left: 25px;
+    margin-top: -10px;
+    margin-bottom: -28px;
+}
+.Logo8{
+    margin-left: 25px;
+    margin-top: 55px;
+    margin-bottom: 10px
+}
+.Text8{
+    margin-left: 68px;
+    margin-top: -50px;
+    margin-bottom: 25px;
+}
+.Logo9{
+    margin-left: 25px;
+    margin-top: -48px;
+    margin-bottom: -10px;
+}
+.Text9{
+    margin-left: 68px;
+    margin-top: -28px;
+}
